@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1606841058 source:e:\efrei\l2\algorithm_3\huffman___project\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1606841058 e:\efrei\l2\algorithm_3\huffman___project\huffman.h
+	<stdio.h>
+
+1606840988 source:e:\efrei\l2\algorithm_3\huffman___project\huffman.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1607108805 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project (3)\huffman___project\huffman.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1607108790 c:\users\lnate\documents\efrei\s203\huffman\huffman___project (3)\huffman___project\huffman.h
+	<stdio.h>
+
+1607108832 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project (3)\huffman___project\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1607177023 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project (3)\huffman___project_tree\huffman.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1607177023 c:\users\lnate\documents\efrei\s203\huffman\huffman___project (3)\huffman___project_tree\huffman.h
+	<stdio.h>
+
+1607177164 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project (3)\huffman___project_tree\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1607381705 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project_output\huffman.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	"part1.h"
+
+1607371783 c:\users\lnate\documents\efrei\s203\huffman\huffman___project_output\huffman.h
+	<stdio.h>
+
+1607381797 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project_output\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	"part1.h"
+	"part2.h"
+
+1607381702 c:\users\lnate\documents\efrei\s203\huffman\huffman___project_output\part1.h
+	<stdio.h>
+
+1607382019 c:\users\lnate\documents\efrei\s203\huffman\huffman___project_output\part2.h
+	<stdio.h>
+
+1607381916 source:c:\users\lnate\documents\efrei\s203\huffman\huffman___project_output\part2.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	"part2.h"
+
